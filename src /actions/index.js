@@ -16,4 +16,5 @@ export const decNumber = () => {
     return {
         type: 'DECREMENT'
     }
+    
 };
